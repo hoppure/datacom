@@ -206,3 +206,9 @@ pip-selfcheck.json
 
 # data
 data/
+
+# checkpoint
+checkpoints/
+
+# predictions
+predictions/
